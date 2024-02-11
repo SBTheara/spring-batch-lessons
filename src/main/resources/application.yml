@@ -17,3 +17,6 @@ spring:
       initialize-schema: always
     job:
       enabled: false
+
+server:
+  port: 9090
